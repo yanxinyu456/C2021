@@ -2,7 +2,6 @@
 
 int main(int argc, char const *grav[])
 {
-    printf("Hi!\n");
-
+    printf("Hello!\n");
     return 0;
 }
